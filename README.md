@@ -2,7 +2,6 @@
 
 
 Note: This guide only works for virtual machines not for containers(CT).
-Note 2: For using with RAID controllers, please read the guide first (without doing anything) then refer to benzene6‘s comment.
 
 1 Install lshw on PVE
 1.1 Bring up terminal from PVE directly or via SSH or by using “Shell” from PVE web gui
